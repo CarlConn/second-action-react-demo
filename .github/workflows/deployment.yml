@@ -22,7 +22,7 @@ jobs:
         - name: Build Project
           run: npm run build
         - name:
-          run: echo "deploying....""
+          run: echo "deploying...."
 
 
 
